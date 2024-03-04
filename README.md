@@ -23,3 +23,15 @@ Daniil reported a total of 4 issues:
 - Informational Issues: 3 (3 Resolved)
 
 See [full report](Daniil%20Sedov%20Hipo%20Audit%20Report%202023-10.pdf) for more details.
+
+## 2024-03 [ProgramCrafter](https://ratingers.pythonanywhere.com) Hipo Audit Report
+
+ProgramCrafter reported a total of 9 issues:
+
+- Critical Issues: 1 (1 Resolved)
+- Major Issues: 1 (1 Resolved)
+- Medium Issues: 3 (2 Resolved, 1 Withdrawn)
+- Minor Issues: 3 (3 Resolved)
+- Informational Issues: 1 (1 Resolved)
+
+See [full report](ProgramCrafter%20Hipo%20Audit%20Report%202024-03.pdf) for more details.
