@@ -35,3 +35,13 @@ ProgramCrafter reported a total of 9 issues:
 - Informational Issues: 1 (1 Resolved)
 
 See [full report](ProgramCrafter%20Hipo%20Audit%20Report%202024-03.pdf) for more details.
+
+## 2025-04 [Quantstamp](https://quantstamp.com/) Hipo Audit Report
+
+Quantstamp reported a total of 4 issues:
+
+- Medium: 1
+- Low: 1
+- Informational: 2
+
+See [full report](Quantstamp%20Hipo%20Audit%20Report%202025-04.pdf) or [the online version](https://certificate.quantstamp.com/full/hipo-finance/62651b32-2b58-4ac1-88c4-f06978bf993d/index.html) for more details.
